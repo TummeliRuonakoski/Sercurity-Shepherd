@@ -1,6 +1,6 @@
 # Sercurity-Shepherd
 
-Osallistuin Mimmit koodaan järjestämälle hakkeroinnin peruskurssille. Kurssin aluksi oli tunnin kestävä luento, jonka jälkeen tehtäviä oli aikaa ratkoa kahden viikon ajan.
+Osallistuin Mimmit koodaan järjestämälle hakkeroinnin peruskurssille. Kurssin aluksi oli tunnin kestävä luento, jonka jälkeen tehtäviä oli aikaa ratkoa kahden viikon ajan. Apua sai tarvittaessa kurssia varten perustetusta Slack kanavasta.
 (https://mimmitkoodaa.ohjelmistoebusiness.fi/workshopit/workshop-hakkeroinnin-peruskurssi/)
 
 Kurssila tehtiin https://owasp.org/ tehtäviä seuraavista alueista:
