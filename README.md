@@ -13,3 +13,5 @@ Tehtäviä ratkottiin lähdekoodin sekä Burp Suiten avulla. Tärkeinpänä goog
 
 Kurssi lisäsi mielenkiintoa tietoturvaa kohtaan ja haluan ehdottomasti jatkaa tietoturvan opiskelua, jotta voin tulevalla uralla hyödyntää sitä projekteissani. Tehtävissä vaadittiin hyvää päättelykykä, loogista ajattelua sekä sitkeyttä. 
 
+Raportointia issue välilehdellä https://github.com/TummeliRuonakoski/Sercurity-Shepherd/issues
+
